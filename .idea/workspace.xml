@@ -9,11 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="882abc05-077b-4017-88c1-a7eb73fd80ce" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/buildprac/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/cal.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="882abc05-077b-4017-88c1-a7eb73fd80ce" name="변경" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,6 +60,7 @@
     "Tomcat 서버.Tomcat 9.0.96.executor": "Run",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/권혁주/Web/JavaApp/tomcat/buildPrac/war",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -129,7 +126,7 @@
       <option name="presentableId" value="Default" />
       <updated>1730893291674</updated>
       <workItem from="1730893292706" duration="2124000" />
-      <workItem from="1730943092386" duration="1600000" />
+      <workItem from="1730943092386" duration="2052000" />
     </task>
     <servers />
   </component>
